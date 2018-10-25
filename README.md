@@ -2,7 +2,7 @@
 Uses EEE 802.11 Probe Response Packets to receive Multiwii Serial Protocol http://www.multiwii.com/wiki/index.php?title=Multiwii_Serial_Protocol 
 MSP_SET_RAW_RC commands. Wifi network works in promiscuous mode allowing unassociated low latency transmission for best possible delivery and range.
 Receiver forwards MSP messages to serial port to be consumed by flight controller.
-See Esp 8266 rx tx for transmitter part.  
+See Esp 8266 rc tx for transmitter part.  
 ##### Hardware
 1. esp8266 Esp-07 module with external antenna connection
 ##### Confirmed range
